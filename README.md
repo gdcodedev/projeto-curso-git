@@ -1,6 +1,6 @@
 # Introdução ao GitHub e comandos para trabalhar em equipe
 
-Criando um repositório para seus projetos inovadores 2020 / digitalinnovation.one
+Criando um repositório para seus projetos inovadores 2020 / https://digitalinnovation.one/
 
  Este repositório tem como base de estudos em git, foi criado apenas para voltar a entender a forma que hoje as equipes estão trabalhando em conjunto.
  Desde criar um repositório local/remoto até criar branchs modificar/deletar implementar arquivos e executar suas atividades vinculados ao meu estudo.
