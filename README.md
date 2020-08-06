@@ -28,6 +28,7 @@ Criando um repositório para seus projetos inovadores 2020 / https://digitalinno
 - Comando para abrir uma tag no git : git tag 'nomedotexto'
 - Comando para editar mensagem do seu último commit : git commit --amend 
 - Comando para consultar os commits : git log --stat
+- Comando para forçar o push : git push --force "repositoriogit"
  
 # Resumo : 
 
