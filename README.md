@@ -15,7 +15,7 @@ Criando um repositório para seus projetos inovadores 2020 / https://digitalinno
 - Criando um repositório local : mkdir NOMEDOREPOSITÓRIO
 - Entrar na pasta do repositório : cd NOMEDOREPOSITÓRIO
 - Iniciar repositório criado : git init
-- Criar arquivos dentro do repositório : git touch
+- Criar arquivos dentro do repositório : touch
 - Adicionar arquivo para ser monitorado pelo git : git add NOME_DO_ARQUIVO
 - LISTAR BRANCHS : git branch
 - Criando uma nova Branch : git branch nomedabranch
